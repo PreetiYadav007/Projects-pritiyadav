@@ -1,1 +1,1 @@
-# Projects-pritiyadav
+# SQL_Project
